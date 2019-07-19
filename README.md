@@ -1,8 +1,8 @@
 # Workshop 2 - My First Git
 
 ### Project Description: Web Programming Workshop 2: working with git version control
-### Install Instructions: npm i
-### Run Instructions: npm start
+### Install Instructions: git clone
+### Run Instructions: node index.js
 
 Week | Content
 ------------ | ------------
