@@ -1,6 +1,6 @@
-# myFirstGit
+# Workshop 2 - My First Git
 
-### Project Description: Outputs 'hello world' to the console.
+### Project Description: Web Programming Workshop 2: working with git version control
 ### Install Instructions: npm i
 ### Run Instructions: npm start
 
